@@ -104,7 +104,7 @@ const config: MenuEntry[] = [
       },
       {
         label: 'Blog',
-        href: 'https://pancakeswap.medium.com',
+        href: 'https://pancakeswap.medium.com1',
       },
     ],
   },
